@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Path Finder in Maze",
+  "description": "An interactive web app that visualizes the Backtracking (Depth-First Search) algorithm to find a path through a randomly generated maze. Users can control maze size, animation speed, and watch the algorithm explore in real-time.",
+  "requestFramePermissions": []
+}
